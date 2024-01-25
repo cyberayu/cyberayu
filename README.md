@@ -1,6 +1,6 @@
 ### I'm not ready yet. Please check back later.
 
-![Cyber Ayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberayu&show_icons=true&theme=radical)
+![Cyber Ayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberayu&show_icons=true&theme=ambient_gradient)
 
 <!--
 **cyberayu/cyberayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
