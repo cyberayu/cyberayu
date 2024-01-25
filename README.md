@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberayu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyberayu)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ([![Harlok's WakaTime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=cyberayu&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 <!--
 **cyberayu/cyberayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
