@@ -1,7 +1,9 @@
 ### I'm not ready yet. Please check back later.
 
+### Cyber Ayu's GitHub stats
 ![Cyber Ayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberayu&show_icons=true&theme=default)
 
+### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberayu)](https://github.com/anuraghazra/github-readme-stats)
 
 [//]: # ([![Harlok's WakaTime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=cyberayu&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
